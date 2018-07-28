@@ -1,0 +1,15 @@
+baba
+char_xp
+difficulty_menu_easy
+dragon_stone
+f_choice
+fr_ask
+it_zeni
+ko
+level_menu
+mainxp
+movement
+orb
+rank_up
+start
+talking
